@@ -1,5 +1,5 @@
-import com.example.backendapi.User;
-import com.example.backendapi.UserService;
+package com.example.backendapi;
+
 import org.junit.jupiter.api.Test;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
